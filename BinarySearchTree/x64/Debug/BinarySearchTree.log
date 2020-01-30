@@ -1,0 +1,9 @@
+﻿  BinarySearchTree.cpp
+  main.cpp
+C:\Users\Hahh\source\repos\数据结构\BinarySearchTree\main.cpp(13,19): warning C4101: “p”: 未引用的局部变量
+  oj1024完全二叉树.cpp
+C:\Users\Hahh\source\repos\数据结构\BinarySearchTree\main.cpp(12,18): warning C4101: “x”: 未引用的局部变量
+  oj1221二叉查找树.cpp
+  正在生成代码...
+C:\Users\Hahh\source\repos\数据结构\BinarySearchTree\oj1024完全二叉树.cpp(56,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  BinarySearchTree.vcxproj -> C:\Users\Hahh\source\repos\数据结构\x64\Debug\BinarySearchTree.exe

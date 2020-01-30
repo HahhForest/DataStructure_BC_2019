@@ -1,0 +1,6 @@
+﻿  OJ1214孩子兄弟树遍历.cpp
+C:\Users\Hahh\source\repos\数据结构\OJ完全测试\OJ1214孩子兄弟树遍历.cpp(74,9): warning C4101: “t”: 未引用的局部变量
+C:\Users\Hahh\source\repos\数据结构\OJ完全测试\OJ1214孩子兄弟树遍历.cpp(71): message : 在编译 类 模板 成员函数“void tree<__int64>::create(void)”时
+C:\Users\Hahh\source\repos\数据结构\OJ完全测试\OJ1214孩子兄弟树遍历.cpp(195): message : 查看对正在编译的函数 模板 实例化“void tree<__int64>::create(void)”的引用
+C:\Users\Hahh\source\repos\数据结构\OJ完全测试\OJ1214孩子兄弟树遍历.cpp(194): message : 查看对正在编译的 类 模板 实例化“tree<__int64>”的引用
+  OJ完全测试.vcxproj -> C:\Users\Hahh\source\repos\数据结构\x64\Debug\OJ完全测试.exe

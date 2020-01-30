@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Hahh\source\repos\数据结构\graph\adjListGraph.cpp(151): warning C4715: “adjListGraph<int,int>::find”: 不是所有的控件路径都返回值
+C:\Users\Hahh\source\repos\数据结构\graph\adjListGraph.cpp(151): warning C4715: “adjListGraph<char,int>::find”: 不是所有的控件路径都返回值
+C:\Users\Hahh\source\repos\数据结构\graph\adjMatrixGraph.h(38): warning C4715: “adjMatrixGraph<char,int>::find”: 不是所有的控件路径都返回值
+C:\Users\Hahh\source\repos\数据结构\graph\adjMatrixGraph.h(38): warning C4715: “adjMatrixGraph<int,int>::find”: 不是所有的控件路径都返回值
+  graph.vcxproj -> C:\Users\Hahh\source\repos\数据结构\x64\Debug\graph.exe
